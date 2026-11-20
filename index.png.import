@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bofnrqp2yq3pi"
-path="res://.godot/imported/mara_games.png-3ea54ac21de30f04e3cfd50c3e5db4cd.ctex"
+uid="uid://5rkx5qc4qj34"
+path="res://.godot/imported/index.png-77067dd7f11b89e81343ed95dbee6f25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://web/mara_games1test/mara_games.png"
-dest_files=["res://.godot/imported/mara_games.png-3ea54ac21de30f04e3cfd50c3e5db4cd.ctex"]
+source_file="res://web/mara_games1test/index.png"
+dest_files=["res://.godot/imported/index.png-77067dd7f11b89e81343ed95dbee6f25.ctex"]
 
 [params]
 
